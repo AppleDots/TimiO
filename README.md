@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a weather report Chrome Xxtension.<br><br>I'm currently learning AI and Chrome Extensions.
+I'm currently working on a weather report Chrome Extension.<br><br>I'm currently learning AI and Chrome Extensions.
 
 
 ## 🌐 Socials:
